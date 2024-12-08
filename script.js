@@ -34,3 +34,4 @@ debugger
 for(var aamanub=0;aamanub<=5;aamanub++){
     console.log(aamanub);
 }
+nft
